@@ -9,3 +9,5 @@ This will act as the server which will connect to the ESP8266 module which intur
 ## FinalCode.ino
 This is a Arduino Code to act as client. This code uses the ESP8266 to create a hotspot and then allow users to connect to it 
 
+
+Feel free to create a application of RcFinal.py via PyInstaller, Platypus, etc 
