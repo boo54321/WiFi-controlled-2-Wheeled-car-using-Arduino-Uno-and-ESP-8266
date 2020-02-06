@@ -24,3 +24,5 @@ Schematic Diagram is also Included.
 
 
 ESP8266 Header File Resource : https://github.com/vshymanskyy/BlynkESP8266
+
+KeywordsForEsp.txt came from above resource which has no use or impact to the code
