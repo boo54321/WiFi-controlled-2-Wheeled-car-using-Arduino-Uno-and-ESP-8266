@@ -21,3 +21,6 @@ Feel free to create a application of RcFinal.py via PyInstaller, Platypus, etc
 Working Demo.mp4 is a Proof of working. 
 
 Schematic Diagram is also Included. 
+
+
+ESP8266 Header File Resource : https://github.com/vshymanskyy/BlynkESP8266
