@@ -16,3 +16,8 @@ This is a Arduino Code to act as client. This code uses the ESP8266 to create a 
 Dependency : ESP8266_Lib.h and ESP8266.cpp.  Import it and work
 
 Feel free to create a application of RcFinal.py via PyInstaller, Platypus, etc 
+
+
+Working Demo.mp4 is a Proof of working. 
+
+Schematic Diagram is also Included. 
